@@ -1,4 +1,4 @@
-# Python-task-
+# Python-project-
 This task is give by CodSoft Internship program
 
 Basically this is an internship program organised by codsoft , they give 5 task we have to compleat atleast any 3 tasks in given task
